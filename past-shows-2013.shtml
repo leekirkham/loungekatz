@@ -1,0 +1,91 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area">
+            <div class="grid_6 performance-dates">
+                <h1>Performance Schedule</h1>
+                <h3>Past Shows - 2013</h3>
+                <ul>
+                	<li class="event">New Years Eve Party</li>
+                    <li class="date">December 31, 2013</li>
+                    <li class="venue">Rio Verde Country Club</li>
+                    <li class="location">Rio Verde, AZ</li>
+                    <li class="time">7:00pm - 12:00am</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Cummins Diesel Christmas Party</li>
+                    <li class="date">December 7, 2013</li>
+                    <li class="venue">Renaissance Hotel Westgate Center</li>
+                    <li class="location">Glendale, AZ</li>
+                    <li class="time">7:00pm - 11:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Summit Healtcare Regional Medical Centers Gala Event</li>
+                    <li class="date">September 14, 2013</li>
+                    <li class="venue">Hon-dah Casino and Resort</li>
+                    <li class="location">Pinetop, AZ</li>
+                    <li class="time">7:30pm - 11:30pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Las Sendas Trailhead Club</li>
+                    <li class="date">June 29, 2013</li>
+                    <li class="venue">Las Sendas Trailhead Club</li>
+                    <li class="location">Mesa, AZ</li>
+                    <li class="time">8:00pm - 11:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Honeywell Corporation After Party</li>
+                    <li class="date">June 13, 2013</li>
+                    <li class="venue">Scottsdale Princess Resort</li>
+                    <li class="location">Scottsdale, AZ</li>
+                    <li class="time">9:30pm - 12:30am</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">San Juan County Mayor's Ball</li>
+                    <li class="date">April 26, 2013</li>
+                    <li class="venue">Big Brothers/Big Sisters of San Juan County</li>
+                    <li class="location">Farmington, NM</li>
+                    <li class="time">7pm - 10pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">San Juan Regional Corporate Event</li>
+                    <li class="date">March 1 &amp; 2, 2013</li>
+                    <li class="venue">B.P.O.E. Elks Club</li>
+                    <li class="location">Farmington, NM</li>
+                    <li class="time">6:00pm - 10:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">IHS Seminar Afterparty</li>
+                    <li class="date">February 12, 2013</li>
+                    <li class="venue">Westin Kierland Resort and Spa</li>
+                    <li class="location">Scottsdale, AZ</li>
+                    <li class="time">8:00pm - 11:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <a href="past-shows-2012.shtml" class="button">View Past Shows - 2012</a>
+                <br clear="all" /><br />
+                <a href="schedule.shtml" class="button">View Upcoming Shows</a>
+            </div>
+            <div class="grid_6" style="text-align: right;">
+                <img src="images/performance.jpg" alt="The Lounge Katz" class="rounded" />
+            </div>
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

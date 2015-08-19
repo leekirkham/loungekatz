@@ -1,0 +1,16 @@
+<div class="clear">&nbsp;</div>
+<div id="footer_bg">
+	<div id="footer">
+        <div class="signature_link">
+        	<script type="text/javascript"> 
+				<!--
+					var now = new Date();
+					document.write('&copy; 2007, ' + now.getFullYear() + ' The Lounge Katz. All rights reserved. The Lounge Katz are managed by <a target="_blank" href="http://jgmusicgroup.net">JG Music Group</a>. This site powered by <a href="mailto:leejameskirkham@gmail.com">LJK Media</a>.');
+				-->
+    		</script>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

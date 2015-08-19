@@ -1,0 +1,43 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area">
+            <div class="grid_6 performance-dates">
+                <h1>Performance Schedule</h1>
+                <h3>Past Shows</h3>
+                <ul>
+                	<li class="event">New Years Eve Party</li>
+                    <li class="date">December 31, 2013</li>
+                    <li class="venue">Rio Verde Country Club</li>
+                    <li class="location">Rio Verde, AZ</li>
+                    <li class="time">7:00pm - 12:00am</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Cummins Diesel Christmas Party</li>
+                    <li class="date">December 7, 2013</li>
+                    <li class="venue">Renaissance Hotel Westgate Center</li>
+                    <li class="location">Glendale, AZ</li>
+                    <li class="time">7:00pm - 11:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <a href="past-shows-2013.shtml" class="button">View Past Shows - 2013</a>
+                <br clear="all" /><br />
+                <a href="schedule.shtml" class="button">View Upcoming Shows</a>
+            </div>
+            <div class="grid_6" style="text-align: right;">
+                <img src="images/performance.jpg" alt="The Lounge Katz" class="rounded" />
+            </div>
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

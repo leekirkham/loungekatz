@@ -1,0 +1,184 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area">
+            <div class="grid_6 performance-dates">
+                <h1>Performance Schedule</h1>
+                <h3>Past Shows - 2012</h3>
+                <ul>
+                	<li class="event">Bartell Private Party</li>
+                    <li class="date">December 30, 2012</li>
+                    <li class="venue">Bartell Private Party</li>
+                    <li class="location">Tucson, AZ</li>
+                    <li class="time">6:00pm - 10:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                
+                
+                <ul>
+                	<li class="event">Apache Gold Casino &amp; Resort</li>
+                    <li class="date">December 14 &amp; 15, 2012</li>
+                    <li class="venue">Apache Gold Casino &amp; Resort</li>
+                    <li class="location">San Carlos, AZ</li>
+                    <li class="time">9:00pm - 1:00am</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Alliance Bank Christmas Party</li>
+                    <li class="date">December 8, 2012</li>
+                    <li class="venue">J. W. Marriott Resort</li>
+                    <li class="location">Scottsdale, AZ</li>
+                    <li class="time">8:00pm - 12:00am</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Monrall/Sperling Law Firm Holiday Party</li>
+                    <li class="date">December 7, 2012</li>
+                    <li class="venue">Embassy Suites</li>
+                    <li class="location">Albuquerque, NM</li>
+                    <li class="time">5:30pm - 10:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Cognizant Seminars Afterparty</li>
+                    <li class="date">April 21, 2012</li>
+                    <li class="venue">Scottsdale Princess Resort</li>
+                    <li class="location">Scottsdale, AZ</li>
+                    <li class="time">7:00pm - 10:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Pobiak Birthday Party</li>
+                    <li class="date">October 14, 2012</li>
+                    <li class="venue">Pobiak Residence</li>
+                    <li class="location">Scottsdale, AZ</li>
+                    <li class="time">7:00pm - 9:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Roosevelt Lake Marina</li>
+                    <li class="date">September 29, 2012</li>
+                    <li class="venue">Bartell Private Party</li>
+                    <li class="location">Roosevelt Lake, AZ</li>
+                    <li class="time">6:00pm - 10:00pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Bartell Private Party</li>
+                    <li class="date">December 30, 2012</li>
+                    <li class="venue">Bartell Private Party</li>
+                    <li class="location">Tucson, AZ</li>
+                    <li class="time">7:00pm - 10:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Summit Healthcare Gala</li>
+                    <li class="date">September 22, 2012</li>
+                    <li class="venue">Hon-Dah Casino</li>
+                    <li class="location">Pinetop, AZ</li>
+                    <li class="time">6:30pm - 11:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Apache Gold Casino &amp; Resort</li>
+                    <li class="date">August 24 &amp; 25, 2012</li>
+                    <li class="venue">Apache Gold Casino &amp; Resort</li>
+                    <li class="location">San Carlos, AZ</li>
+                    <li class="time">9:00pm - 1:00am</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                
+                
+                
+                <ul>
+                	<li class="event">Aunt Chilada's Restaurant</li>
+                    <li class="date">July 13, 2012</li>
+                    <li class="venue">Aunt Chilada's Restaurant</li>
+                    <li class="location">Phoenix, AZ</li>
+                    <li class="time">7:30pm - 11:30pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Lake Pleasant Harbor Marina</li>
+                    <li class="date">July 2, 2012</li>
+                    <li class="venue">Lake Pleasant Harbor Marina</li>
+                    <li class="location">Peoria, AZ</li>
+                    <li class="time">7:00pm - 11:00pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">AZ Grand Resort</li>
+                    <li class="date">June 27, 2012</li>
+                    <li class="venue">AZ Grand Resort</li>
+                    <li class="location">Phoenix, AZ</li>
+                    <li class="time">6:30pm - 10:30pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <ul>
+                	<li class="event">Aunt Chilada's Restaurant</li>
+                    <li class="date">June 8, 2012</li>
+                    <li class="venue">Aunt Chilada's Restaurant</li>
+                    <li class="location">Phoenix, AZ</li>
+                    <li class="time">7:30pm - 11:30pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Waterfront Grill</li>
+                    <li class="date">May 26, 2012</li>
+                    <li class="venue">Lake Pleasant Harbor Marina</li>
+                    <li class="location">Peoria, AZ</li>
+                    <li class="time">7:00pm - 11:00pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Waterfront Grill</li>
+                    <li class="date">March 31, 2012</li>
+                    <li class="venue">Lake Pleasant Harbor Marina</li>
+                    <li class="location">Peoria, AZ</li>
+                    <li class="time">7:00pm - 11:00pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Aunt Chilada's Restaurant</li>
+                    <li class="date">March 23, 2012</li>
+                    <li class="venue">Aunt Chilada's Restaurant</li>
+                    <li class="location">Phoenix, AZ</li>
+                    <li class="time">7:30pm - 11:30pm</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">Apache Gold Casino &amp; Resort</li>
+                    <li class="date">March 2 &amp; 3, 2012</li>
+                    <li class="venue">Apache Gold Casino &amp; Resort</li>
+                    <li class="location">San Carlos, AZ</li>
+                    <li class="time">9:00pm - 1:00am</li>
+                    <li class="event-type">Public</li>
+                </ul>
+                <ul>
+                	<li class="event">AV Matters Corporate Event</li>
+                    <li class="date">January 29, 2012</li>
+                    <li class="venue">Kierland Resort</li>
+                    <li class="location">Scottsdale, AZ</li>
+                    <li class="time">7:00pm - 10:00pm</li>
+                    <li class="event-type">Private</li>
+                </ul>
+                <a href="javascript:window.alert('Coming Soon!');" class="button">View Past Shows - 2011</a>
+                <br clear="all" /><br />
+                <a href="schedule.shtml" class="button">View Upcoming Shows</a>
+            </div>
+            <div class="grid_6" style="text-align: right;">
+                <img src="images/performance.jpg" alt="The Lounge Katz" class="rounded" />
+            </div>
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

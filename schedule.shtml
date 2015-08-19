@@ -1,0 +1,26 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area">
+            <div class="grid_6 performance-dates">
+                <h1>Performance Schedule</h1>
+                <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=280&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=09n8s0bm3fphppdco22aqdme3o%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FPhoenix" style=" border-width:0 " width="460" height="280" frameborder="0" scrolling="no"></iframe>
+                <div class="clear_10">&nbsp;</div>
+                <a href="past-shows.shtml" class="button">View Past Shows</a>
+            </div>
+            <div class="grid_6" style="text-align: right;">
+                <img src="images/performance.jpg" alt="The Lounge Katz" class="rounded" />
+            </div>
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

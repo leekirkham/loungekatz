@@ -1,0 +1,189 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area">
+        	<div class="grid_12">
+                <h1>Media</h1>
+            </div>
+        	<div class="grid_6">
+                <h2>Audio</h2>
+                <strong>Fever</strong><br />
+                <p id="audioplayer_1">Fever</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_1", {  
+                        soundFile: "audio/fever.mp3",  
+                        titles: "Fever",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "yes"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Brown Eyed Girl</strong><br />
+                <p id="audioplayer_2">Brown Eyed Girl</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_2", {  
+                        soundFile: "audio/brown_eyed_girl.mp3",  
+                        titles: "Brown Eyed Girl",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>I've Got To See You Again</strong><br />
+                <p id="audioplayer_3">I've Got To See You Again</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_3", {  
+                        soundFile: "audio/see_you_again.mp3",  
+                        titles: "I've Got To See You Again",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Superstition</strong><br />
+                <p id="audioplayer_4">Superstition</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_4", {  
+                        soundFile: "audio/superstition.mp3",  
+                        titles: "Superstition",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Route 66</strong><br />
+                <p id="audioplayer_5">Route 66</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_5", {  
+                        soundFile: "audio/route66.mp3",  
+                        titles: "Route 66",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Black Horse and Cherry Tree</strong><br />
+                <p id="audioplayer_6">Black Horse and Cherry Tree</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_6", {  
+                        soundFile: "audio/blackhorse.mp3",  
+                        titles: "Black Horse and Cherry Tree",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+               
+                <div class="clear_20">&nbsp;</div>
+                
+                
+                
+                <strong>Crazy Little Thing Called Love</strong><br />
+                <p id="audioplayer_7">Crazy Little Thing Called Love</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_7", {  
+                        soundFile: "audio/crazy_little_thing.mp3",  
+                        titles: "Crazy Little Thing Called Love",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Get The Party Started</strong><br />
+                <p id="audioplayer_8">Get The Party Started</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_8", {  
+                        soundFile: "audio/get_the_party_started.mp3",  
+                        titles: "Get The Party Started",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>I'm Yours</strong><br />
+                <p id="audioplayer_9">I'm Yours</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_9", {  
+                        soundFile: "audio/im_yours.mp3",  
+                        titles: "I'm Yours",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Margaritaville</strong><br />
+                <p id="audioplayer_10">Margaritaville</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_10", {  
+                        soundFile: "audio/margaritaville.mp3",  
+                        titles: "Margaritaville",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Play That Funky Music</strong><br />
+                <p id="audioplayer_11">Play That Funky Music</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_11", {  
+                        soundFile: "audio/play_that_funky_music.mp3",  
+                        titles: "Play That Funky Music",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Rolling In The Deep</strong><br />
+                <p id="audioplayer_12">Rolling In The Deep</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_12", {  
+                        soundFile: "audio/rolling_in_the_deep.mp3",  
+                        titles: "Rolling In The Deep",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                <strong>Willie and the Hand Jive</strong><br />
+                <p id="audioplayer_13">Willie and the Hand Jive</p>
+                <script type="text/javascript">  
+                    AudioPlayer.embed("audioplayer_13", {  
+                        soundFile: "audio/willie_hand_jive.mp3",  
+                        titles: "Willie and the Hand Jive",
+						artists: "The Lounge Katz",
+						remaining: "no",
+                        autostart: "no"  
+                    });  
+                </script>
+                <div class="clear_20">&nbsp;</div>
+                
+                <a href="mailto:booking@theloungekatzband.com?subject=I%20want%20to%20book%20The%20Lounge%20Katz%20for%20my%20event"><span class="button">Book the Lounge Katz now</span></a>
+            </div>
+            <div class="grid_6">
+            	<h2>Video</h2>
+                <iframe width="460" height="345" src="http://www.youtube.com/embed/Pc8iqbEEGS4?rel=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

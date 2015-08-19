@@ -1,0 +1,41 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area">
+            <div class="grid_5">
+                <h1>The Lounge Katz</h1>
+                <h2>
+                	&hellip;are out to have a good time <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and they're taking <strong>YOU</strong> along!
+                </h2>
+                <p>The band performs music of various styles, spanning many eras, recorded by legendary artists. The Lounge Katz present their own brand of live music entertainment, for all occasions, to an assortment of venues including: <strong>Night Clubs</strong>, <strong>Casinos</strong>, <strong>Resorts</strong>, <strong>Festivals</strong>, <strong>Weddings</strong>, <strong>Corporate Events</strong>, <strong>Private Events</strong>, and much more.</p>
+                
+                <p>Let the Lounge Katz elevate your event to a whole new level, and make it an unforgettable experience second to none! The Lounge Katz is the ultimate in musical entertainment for your event, no matter how large or how small.</p>
+                
+                <a href="mailto:booking@theloungekatzband.com?subject=I%20want%20to%20book%20The%20Lounge%20Katz%20for%20my%20event"><span class="button">I want the Lounge Katz for my event</span></a>
+            </div>
+            <div class="grid_7">
+                <div id="owl-example" class="owl-carousel owl-theme" style="width: 540px; height: 358px; margin: 0;">
+                    <div class="item"><img src="images/carousel/2013_100.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/summit_healthcare_2013_01.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/honeywell_2013_005.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/2013_012.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/2013_019.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/summit_healthcare_2013_03.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/2013_007.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/summit_healthcare_2013_11.jpg" alt="The Lounge Katz"></div>
+                    <div class="item"><img src="images/carousel/summit_healthcare_2013_09.jpg" alt="The Lounge Katz"></div>
+                </div>
+            </div>
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

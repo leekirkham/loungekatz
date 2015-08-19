@@ -1,0 +1,665 @@
+
+<!--#include virtual="header.shtml" -->
+
+<div id="bg_page_wrapper">
+	<div class="container_12">
+  		<div class="cap_top">
+    		&nbsp;
+    	</div>
+    	<div class="grid_whole content_area playlist">
+            
+        	<div class="grid_12">
+            	<h1>Playlist</h1>
+                <div class="grid_4 alpha">
+                	<h3>50's / 60's</h3>
+                    
+                    <div class="song_list_frame">
+                        <h4>The Beatles <span class="song_list_button" data-menu="beatles">View List</span></h4>
+                        <div id="beatles" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>a hard day's night</li>
+                                <li>can't buy me love</li>
+                                <li>day tripper</li>
+                                <li>here, there, and everywhere</li>
+                                <li>I saw her standing there</li>
+                                <li>slow down</li>
+                                <li>twist &amp; shout</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Tony Bennett <span class="song_list_button" data-menu="tony_bennett">View List</span></h4>
+                        <div id="tony_bennett" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>I left my heart in san fransisco</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Chuck Berry <span class="song_list_button" data-menu="chuck_berry">View List</span></h4>
+                        <div id="chuck_berry" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>johnnie b. goode</li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>James Brown <span class="song_list_button" data-menu="james_brown">View List</span></h4>
+                        <div id="james_brown" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>I feel good</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Johnny Cash <span class="song_list_button" data-menu="johnny_cash">View List</span></h4>
+                        <div id="johnny_cash" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>folsum prison blues</li>
+                        		<li>ring of fire</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Ray Charles <span class="song_list_button" data-menu="ray_charles">View List</span></h4>
+                        <div id="ray_charles" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>georgia on my mind</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Classics IV <span class="song_list_button" data-menu="classics_iv">View List</span></h4>
+                        <div id="classics_iv" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>spooky</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Patsy Cline <span class="song_list_button" data-menu="patsy_cline">View List</span></h4>
+                        <div id="patsy_cline" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>crazy</li>
+                        		<li>walking after midnight</li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>The Spencer Davis Group <span class="song_list_button" data-menu="spencer_davis_group">View List</span></h4>
+                        <div id="spencer_davis_group" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>gimme some lovin'</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Fats Domino <span class="song_list_button" data-menu="fats_domino">View List</span></h4>
+                        <div id="fats_domino" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>kansas city</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>The Doors <span class="song_list_button" data-menu="the_doors">View List</span></h4>
+                        <div id="the_doors" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>roadhouse blues</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Cass Elliot <span class="song_list_button" data-menu="cass_elliot">View List</span></h4>
+                        <div id="cass_elliot" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>dream a little dream</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                   <div class="song_list_frame">
+                        <h4>The Everly Brothers <span class="song_list_button" data-menu="everly_brothers">View List</span></h4>
+                        <div id="everly_brothers" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>bye bye love</li>
+                        		<li>dream</li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                   
+                    <div class="song_list_frame">
+                        <h4>Aretha Franklin <span class="song_list_button" data-menu="aretha_franklin">View List</span></h4>
+                        <div id="aretha_franklin" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>Respect</li>
+                                <li>chain of fools</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Marvin Gaye <span class="song_list_button" data-menu="marvin_gaye">View List</span></h4>
+                        <div id="marvin_gaye" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>i heard it through the grapevine</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Jimi Hendrix <span class="song_list_button" data-menu="jimi_hendrix">View List</span></h4>
+                        <div id="jimi_hendrix" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>fire</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Buddy Holly <span class="song_list_button" data-menu="buddy_holly">View List</span></h4>
+                        <div id="buddy_holly" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>that'll be the day</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                   <div class="song_list_frame">
+                        <h4>Etta James <span class="song_list_button" data-menu="etta_james">View List</span></h4>
+                        <div id="etta_james" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>at last</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Janis Joplin <span class="song_list_button" data-menu="janis_joplin">View List</span></h4>
+                        <div id="janis_joplin" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>me and bobby mcGhee</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Ben E. King <span class="song_list_button" data-menu="ben_e_king">View List</span></h4>
+                        <div id="ben_e_king" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>stand by me</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Peggy Lee <span class="song_list_button" data-menu="peggy_lee">View List</span></h4>
+                        <div id="peggy_lee" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>fever</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Little Eva <span class="song_list_button" data-menu="little_eva">View List</span></h4>
+                        <div id="little_eva" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>The Locomotion</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Frankie Lymon &amp; the Teenagers <span class="song_list_button" data-menu="frankie_lymon">View List</span></h4>
+                        <div id="frankie_lymon" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>why do fools fall in love?</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                   	<div class="song_list_frame">
+                        <h4>The Monkees <span class="song_list_button" data-menu="the_monkees">View List</span></h4>
+                        <div id="the_monkees" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>i'm a believer</li>
+                                <li>last train to clarksville</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Van Morrison <span class="song_list_button" data-menu="van_morrison">View List</span></h4>
+                        <div id="van_morrison" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>brown eyed girl</li>
+                                <li>moon dance</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Roy Orbison <span class="song_list_button" data-menu="roy_orbison">View List</span></h4>
+                        <div id="roy_orbison" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>oh, pretty woman</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Patti Page <span class="song_list_button" data-menu="patti_page">View List</span></h4>
+                        <div id="patti_page" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>tennessee waltz</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Wilson Pickett <span class="song_list_button" data-menu="wilson_pickett">View List</span></h4>
+                        <div id="wilson_pickett" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>mustang sally</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Otis Redding <span class="song_list_button" data-menu="otis_redding">View List</span></h4>
+                        <div id="otis_redding" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>dock of the bay</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Sam the Sham &amp; the Pharoahs <span class="song_list_button" data-menu="sam_the_sham">View List</span></h4>
+                        <div id="sam_the_sham" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>wooly bully</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Del Shannon <span class="song_list_button" data-menu="del_shannon">View List</span></h4>
+                        <div id="del_shannon" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>runaway</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Shocking Blue <span class="song_list_button" data-menu="shocking_blue">View List</span></h4>
+                        <div id="shocking_blue" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>venus</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                   	<div class="song_list_frame">
+                        <h4>Frank Sinatra <span class="song_list_button" data-menu="frank_sinatra">View List</span></h4>
+                        <div id="frank_sinatra" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>fly me to the moon</li>
+                                <li>the lady is a tramp</li>
+                                <li>new york, new york</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                   
+                   <div class="song_list_frame">
+                        <h4>Nancy Sinatra <span class="song_list_button" data-menu="nancy_sinatra">View List</span></h4>
+                        <div id="nancy_sinatra" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>these boots are madr for walking</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>Dusty Springfield <span class="song_list_button" data-menu="dusty_springfield">View List</span></h4>
+                        <div id="dusty_springfield" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>the look of love</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                    <div class="song_list_frame">
+                        <h4>The Temptations <span class="song_list_button" data-menu="the_temptations">View List</span></h4>
+                        <div id="the_temptations" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>my girl</li>
+                                <li>the way you do the things you do</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                    
+                   	<div class="song_list_frame">
+                        <h4>The Young Rascals <span class="song_list_button" data-menu="the_young_rascals">View List</span></h4>
+                        <div id="the_young_rascals" style="display: none;" class="song_list_container">
+                            <ul>
+                                <li>groovin'</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="clear">&nbsp;</div>
+                </div>
+                <div class="grid_4">
+                	<h3>70's / 80's</h3>
+                    <ul>
+                    	<li>A Taste Of Honey</li>
+                        <li>boogie oogie oogie</li>
+                    </ul>
+                    <ul>
+                    	<li>The Bangles</li>
+                        <li>walk like an egyptian</li>
+                    </ul>
+                    <ul>
+                    	<li>Pat Benatar</li>
+                        <li>heartbreaker</li>
+                        <li>hit me with your best shot</li>
+                    </ul>
+                    <ul>
+                    	<li>Blondie</li>
+                        <li>one way or another</li>
+                    </ul>
+                    <ul>
+                    	<li>The Cars</li>
+                        <li>Just what i needed</li>                        
+                    </ul>
+                    <ul>
+                    	<li>Chic</li>
+                        <li>le freak</li>
+                    </ul>
+                    <ul>
+                    	<li>The Commodores</li>
+                        <li>brick house</li>
+                    </ul>
+                    <ul>
+                    	<li>Creedance Clearwater Revival</li>
+                        <li>proud mary</li>
+                        <li>susie q</li>
+                    </ul>
+                    <ul>
+                    	<li>The Doobie Brothers</li>
+                        <li>long train runnin'</li>
+                    </ul>
+                    <ul>
+                    	<li>The Eagles</li>
+                        <li>desperado</li>
+                        <li>hotel california</li>
+                        <li>lyin' eyes</li>
+                    </ul>
+                    <ul>
+                    	<li>Fleetwood Mac</li>
+                        <li>dreams</li>
+                        <li>rhiannon</li>
+                        <li>say you love me</li>
+                    </ul>
+                    <ul>
+                    	<li>Peter Frampton</li>
+                        <li>baby i love your way</li>
+                    </ul>
+                    <ul>
+                    	<li>Gloria Gaynor</li>
+                        <li>i will survive</li>
+                    </ul>
+                    <ul>
+                    	<li>Grand Funk Railroad</li>
+                        <li>some kind of wonderful</li>
+                    </ul>
+                    <ul>
+                    	<li>Joan Jett &amp; the Blackhearts</li>
+                        <li>i hate myself for loving you</li>
+                        <li>i love rock 'n' roll</li>
+                    </ul>
+                    <ul>
+                    	<li>KC &amp; the Sunshine Band</li>
+                        <li>get down tonight</li>
+                    </ul>
+                    <ul>
+                    	<li>Cyndi Lauper</li>
+                        <li>time after time</li>
+                    </ul>
+                    <ul>
+                    	<li>Led Zeppelin</li>
+                        <li>d'yer maker</li>
+                        <li>rock and roll</li>
+                    </ul>
+                    <ul>
+                    	<li>Lynyrd Skynyrd</li>
+                        <li>sweet home alabama</li>
+                    </ul>
+                    <ul>
+                    	<li>Madonna</li>
+                        <li>material girl</li>
+                    </ul>
+                    <ul>
+                    	<li>John Mellencamp</li>
+                        <li>hurts so good</li>
+                    </ul>
+                    <ul>
+                    	<li>Van Morrison</li>
+                        <li>moondance</li>
+                    </ul>
+                    <ul>
+                    	<li>The Pointer Sisters</li>
+                        <li>fire</li>
+                    </ul>
+                    <ul>
+                    	<li>The Pretenders</li>
+                        <li>brass in pocket</li>
+                    </ul>
+                    <ul>
+                    	<li>Redbone</li>
+                        <li>come and get your love</li>
+                    </ul>
+                    <ul>
+                    	<li>The Rolling Stones</li>
+                        <li>miss you</li>
+                    </ul>
+                    <ul>
+                    	<li>The Romantics</li>
+                        <li>what i like about you</li>
+                    </ul>
+                    <ul>
+                    	<li>Linda Ronstadt</li>
+                        <li>when will i be loved</li>
+                    </ul>
+                    <ul>
+                    	<li>Sade</li>
+                        <li>smooth operator</li>
+                    </ul>
+                    <ul>
+                    	<li>Bob Seeger &amp; the Silver Bullet Band</li>
+                        <li>old time rock 'n' roll</li>
+                    </ul>
+                    <ul>
+                    	<li>The Stray Cats</li>
+                        <li>stray cat strut</li>
+                    </ul>
+                    <ul>
+                    	<li>Donna Summer</li>
+                        <li>bad girls</li>
+                        <li>hot stuff</li>
+                        <li>last dance</li>
+                    </ul>
+                    <ul>
+                    	<li>Wild Cherry</li>
+                        <li>play that funky music</li>
+                    </ul>
+                </div>
+                <div class="grid_4 omega">
+                	<h3>90's / Today</h3>
+                    <ul>
+                    	<li>Tracy Chapman</li>
+                        <li>give me one reason</li>
+                    </ul>
+                    <ul>
+                    	<li>Sheryl Crow</li>
+                        <li>all i wanna do</li>
+                        <li>my favorite mistake</li>
+                    </ul>
+                    <ul>
+                    	<li>Dido</li>
+                        <li>thank you</li>
+                    </ul>
+                    <ul>
+                    	<li>Divinyls</li>
+                        <li>i touch myself</li>
+                    </ul>
+                    <ul>
+                    	<li>Norah Jones</li>
+                        <li>come away with me</li>
+                        <li>i don't know why</li>
+                        <li>i've got to see you again</li>
+                    </ul>
+                    <ul>
+                    	<li>Lady Gaga</li>
+                        <li>bad romance</li>
+                        <li>poker face</li>
+                    </ul>
+                    <ul>
+                    	<li>John Mayer</li>
+                        <li>route 66</li>
+                        <li>waiting for the world to change</li>
+                    </ul>
+                    <ul>
+                    	<li>No Doubt</li>
+                        <li>hella good</li>
+                        <li>just a girl</li>
+                    </ul>
+                    <ul>
+                    	<li>Pink</li>
+                        <li>get this party started</li>
+                        <li>who knew?</li>
+                    </ul>
+                    <ul>
+                    	<li>rihanna</li>
+                        <li> shut up &amp; drive</li>
+                    </ul>
+                    <ul>
+                    	<li>sixpence none the richer</li>
+                        <li>kiss me</li>
+                    </ul>
+                    <ul>
+                    	<li>Gwen Stefani</li>
+                        <li>hollaback girl</li>
+                    </ul>
+                    <ul>
+                    	<li>Social Distortion</li>
+                        <li>ring of fire</li>
+                    </ul>
+                    <ul>
+                    	<li>KT Tungstall</li>
+                        <li>black horse and cherry tree</li>
+                    </ul>
+                    <ul>
+                    	<li>Shania Twain</li>
+                        <li>Man, i feel like a woman</li>
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+        <div class="cap_bottom">
+            &nbsp;
+        </div>
+	</div>
+</div>
+
+<!--#include virtual="footer.shtml" -->
