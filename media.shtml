@@ -11,7 +11,8 @@
                 <h1>Media</h1>
             </div>
         	<div class="grid_6">
-                <h2>Audio</h2>
+                <iframe width="460" height="345" src="http://www.youtube.com/embed/Pc8iqbEEGS4?rel=0" frameborder="0" allowfullscreen></iframe>
+            </div><div class="grid_6">
                 <strong>Fever</strong><br />
                 <p id="audioplayer_1">Fever</p>
                 <script type="text/javascript">  
@@ -35,7 +36,7 @@
                         autostart: "no"  
                     });  
                 </script>
-                <div class="clear_20">&nbsp;</div>
+                <!--<div class="clear_20">&nbsp;</div>
                 <strong>I've Got To See You Again</strong><br />
                 <p id="audioplayer_3">I've Got To See You Again</p>
                 <script type="text/javascript">  
@@ -70,7 +71,7 @@
 						remaining: "no",
                         autostart: "no"  
                     });  
-                </script>
+                </script>-->
                 <div class="clear_20">&nbsp;</div>
                 <strong>Black Horse and Cherry Tree</strong><br />
                 <p id="audioplayer_6">Black Horse and Cherry Tree</p>
@@ -84,10 +85,8 @@
                     });  
                 </script>
                
-                <div class="clear_20">&nbsp;</div>
-                
-                
-                
+                <!--<div class="clear_20">&nbsp;</div>
+
                 <strong>Crazy Little Thing Called Love</strong><br />
                 <p id="audioplayer_7">Crazy Little Thing Called Love</p>
                 <script type="text/javascript">  
@@ -134,7 +133,7 @@
 						remaining: "no",
                         autostart: "no"  
                     });  
-                </script>
+                </script>-->
                 <div class="clear_20">&nbsp;</div>
                 <strong>Play That Funky Music</strong><br />
                 <p id="audioplayer_11">Play That Funky Music</p>
@@ -159,7 +158,7 @@
                         autostart: "no"  
                     });  
                 </script>
-                <div class="clear_20">&nbsp;</div>
+                <!--<div class="clear_20">&nbsp;</div>
                 <strong>Willie and the Hand Jive</strong><br />
                 <p id="audioplayer_13">Willie and the Hand Jive</p>
                 <script type="text/javascript">  
@@ -170,14 +169,8 @@
 						remaining: "no",
                         autostart: "no"  
                     });  
-                </script>
+                </script> -->
                 <div class="clear_20">&nbsp;</div>
-                
-                <a href="mailto:booking@theloungekatzband.com?subject=I%20want%20to%20book%20The%20Lounge%20Katz%20for%20my%20event"><span class="button">Book the Lounge Katz now</span></a>
-            </div>
-            <div class="grid_6">
-            	<h2>Video</h2>
-                <iframe width="460" height="345" src="http://www.youtube.com/embed/Pc8iqbEEGS4?rel=0" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
         <div class="cap_bottom">
