@@ -96,12 +96,11 @@
         <img src="images/lounge_katz.png" alt="The Lounge Katz" id="lounge_katz">
         <ul id="primary_nav">
         	<li><a href="index.shtml">Home</a></li>
-            <li><a href="playlist.shtml">Playlist</a></li>
             <li><a href="media.shtml">Media</a></li>
+            <li><a href="playlist.shtml">Playlist</a></li>
             <li><a href="schedule.shtml">Schedule</a></li>
             <li><a href="gallery.shtml">Gallery</a></li>
             <li><a href="clientele.shtml">Clientele</a></li>
-            <li><a href="booking.shtml">Booking</a></li>
         </ul>
         <div class="clear">&nbsp;</div>
     </div>

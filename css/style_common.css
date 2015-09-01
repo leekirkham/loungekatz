@@ -399,7 +399,7 @@ hr { color: transparent; border-bottom: 3px dotted #ccc; margin: 20px 0; }
 ======================================*/
 #bg_page_wrapper { padding: 0; margin: 0; }
 .content_area { overflow: hidden; background: #fff; min-height: 300px; padding: 10px 0; }
-h1 { font-size: 32px; color: #e5cd43; margin: 0 0 10px; font-family: 'Risque'; text-shadow: 1px 1px 1px #000; }
+h1 { font-size: 32px; color: #e5cd43; margin: 0 0 20px; font-family: 'Risque'; text-shadow: 1px 1px 1px #000; }
 p { font-size: 12px; line-height: 20px; color: #444; }
 a { color: #f50; text-decoration: none; }
 a:hover { color: #900; }
